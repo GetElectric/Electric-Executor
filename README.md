@@ -39,3 +39,9 @@ Joey - High Priority Support Team
 Lillian - UI Designer 
 
 Special thanks to our team for helping out Electric Executor!
+
+
+
+
+
+![IMG_2709](https://github.com/GetElectric/Electric-Executor/assets/169511613/2bf86374-a917-4a2b-9f67-891f0474ce23)
