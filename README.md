@@ -14,7 +14,7 @@ Frequent Updates:
 With our skilled developers committed to regular updates, Electric Executor ensures continuous improvement and enhancement.
 
 Download Electric Executor!
-https://github.com/GetElectric/Electric-Executor/blob/main/Electric.rar
+https://github.com/GetElectric/Electric-Executor/releases/tag/Electric
 Join our Discord Server for 24/7 High Priority Support
 https://discord.gg/getelectric
 
