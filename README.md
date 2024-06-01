@@ -22,6 +22,10 @@ https://discord.gg/getelectric
 
 # Getting Started
 To get started with Electric Executor, simply download the appropriate version from the link above or click Electric.rar. Follow the installation instructions provided and start exploring its features!
+Download the Electric Executor
+Open the zip file and run Electric.exe 
+Follow the on-screen instructions.
+Once installed, launch Electric Executor and enjoy!
 
 # Contributing
 We welcome contributions from the community to further enhance Electric Executor. Feel free to submit bug reports, feature requests, or even pull requests to contribute code.
