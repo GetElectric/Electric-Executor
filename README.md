@@ -1,4 +1,5 @@
 What is Electric Executor?
+
 Electric is a new generation Windows executor developed by skilled developers. It boasts advanced features such as enhanced scripting, an inbuilt script hub, and AI capabilities. Wave also includes a bypass with 100% stealth mode to protect your Roblox account from bans.
 
 Special Features about Electric Roblox Executor
