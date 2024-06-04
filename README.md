@@ -36,7 +36,11 @@ https://opensource.org/license/MIT
 # Our Team
 Hadi - Founder and Editor
 
-Blake - Co Founder and Developer of Electric Executor
+Blake - Founder and Developer of Electric Executor
+
+Entity - Main Developer and Scripter
+
+Jay - Tester
 
 Joey - High Priority Support Team
 
