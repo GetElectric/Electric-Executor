@@ -5,7 +5,7 @@ Electric is a new generation Windows executor developed by skilled developers. I
 # Special Features about Electric Roblox Executor
 
 Keyless Access:
-Electric Executor offers both keyed and keyless versions, with the keyless version exclusively available to subscribed users.
+Electric Executor offers a free keyless version, with the keyless version exclusively available to all users.
 
 Stunning UI:
 Electric Executor boasts a visually appealing UI with advanced-looking buttons and animations.
