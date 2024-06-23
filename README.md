@@ -48,7 +48,3 @@ Lillian - UI Designer
 
 Special thanks to our team for helping out Electric Executor!
 
-# Showcase:
-
-![IMG_3973](https://github.com/GetElectric/Electric-Executor/assets/169511613/f29f93e5-5514-4af1-ad6c-2386ed456fef)
-
